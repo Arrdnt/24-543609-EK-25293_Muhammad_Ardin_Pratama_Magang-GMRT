@@ -32,8 +32,8 @@ print("Posisi y1: ", y1)
 print("============================")
 
 #Konversi radian absolute theta
-Cos_AbsTheta = math.cos(math.radians(Absolute))
-Sin_AbsTheta = math.sin(math.radians(Absolute))
+Cos_AbsTheta = math.cos(math.radians(Absolute_theta))
+Sin_AbsTheta = math.sin(math.radians(Absolute_theta))
 
 print("Cos Absolute Theta: ", Cos_AbsTheta)
 print("Sin Absolute Theta: ", Sin_AbsTheta)
